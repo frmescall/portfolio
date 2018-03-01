@@ -1,0 +1,25 @@
+/* Don't write any actual css in this file. Create modular files, edit them, and @import them into here. */
+
+/* Import Globals */
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+a:link, a:visited {
+        text-decoration: none;
+    }
+
+a:hover {
+        
+    }
+
+/* Mixins based on https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/screen-sizes.png */
+
+/* Import modules */
+
+/* Import any vendor files */
+
